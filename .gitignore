@@ -1,0 +1,7 @@
+int main(){
+string myStr = “”;
+cin >> myStr;
+cout << myStr << endl;
+system(“PAUSE”);
+return 0;
+}
